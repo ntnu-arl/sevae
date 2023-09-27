@@ -18,7 +18,7 @@ The work is explained in the following videos:
 
 ## Setup and Installation
 
-Recommended: [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+Recommended: [Anaconda](https://docs.conda.io/en/latest/) or  [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 
 Clone the repository:
